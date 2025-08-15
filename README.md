@@ -12,7 +12,7 @@
 Фінальний SELECT об'єднує всі метрики по континентах.
 
 [Переглянути SQL-запит](https://docs.google.com/document/d/15I7wneG3QKnqxmbGUrDAQm_CHfPYmVfcO2BQqg7UEoM/edit?usp=sharing)
-## Візуалізація доходу по пристроях
+## Візуалізація
 
 [Переглянути результат](https://docs.google.com/spreadsheets/d/1iBtkQZ0RPtW1DrX2Vy-qAegX1q3ypwQeHpy1sn9dtjg/edit?usp=sharing)
 
