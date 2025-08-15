@@ -11,7 +11,7 @@
 Запит складається з трьох CTE.
 Фінальний SELECT об'єднує всі метрики по континентах.
 
-[Переглянути SQL-запит]([[./query.sql](https://console.cloud.google.com/bigquery?authuser=0&project=data-analytics-mate&supportedpurview=project&ws=!1m5!1m4!1m3!1sdata-analytics-mate!2sbquxjob_7061fee_198ad037179!3sUS&inv=1&invt=Ab5iDA)](https://docs.google.com/document/d/15I7wneG3QKnqxmbGUrDAQm_CHfPYmVfcO2BQqg7UEoM/edit?usp=sharing))
+[Переглянути SQL-запит](https://docs.google.com/document/d/15I7wneG3QKnqxmbGUrDAQm_CHfPYmVfcO2BQqg7UEoM/edit?usp=sharing)
 
 ## Результати
 - Найбільшу частку доходу приносить регіон Americas — понад половину загального доходу. Це свідчить про високий рівень комерційної активності в цьому регіоні.
